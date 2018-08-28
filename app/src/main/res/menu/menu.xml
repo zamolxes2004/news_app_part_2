@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools.context="m.baciu.news_app_part_2.MainActivity">
+    <item android:id="@+id/settings"
+        android:title="@string/orderby"/>
+    <item android:id="@+id/choose_topic"
+        android:title="@string/topic_title"/>
+
+</menu>
